@@ -1,6 +1,6 @@
 # Cadastro em C
 * ****Em processo de criação!****
-* Projeto com objetivo de cadastro de clientes.
+* Projeto com objetivo de cadastro de clientes, com opções de listagem e pesquisa.
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/101531485/160146992-61940da4-c7b3-449a-840b-df676417b113.PNG" width="350px" />
